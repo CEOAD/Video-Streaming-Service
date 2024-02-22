@@ -1,0 +1,13 @@
+/auth/combined.log
+/auth/error.log
+/auth/user.json
+
+/database/db-setup.sql
+
+/file-system-service/.env
+
+/upload_service/.env
+/upload_service/uploads
+
+/video-streaming-app/.gitignore
+```
